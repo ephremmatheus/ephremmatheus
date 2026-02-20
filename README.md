@@ -1,4 +1,4 @@
 -  Hi, I’m @ephremmatheus
 -  I’m interested in Web development
--  I’m currently learning React
--  I’m looking to collaborate on HTML, CSS, Javascript
+-  I’m currently learning Java
+-  I’m looking to collaborate on Frontend and Backend projects using React and Java
